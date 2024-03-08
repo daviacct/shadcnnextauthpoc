@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "title": "Section 1",
+      "links": [
+        { "title": "Link 1", "url": "#" },
+        { "title": "Link 2", "url": "#" },
+        { "title": "Link 3", "url": "#" }
+      ]
+    },
+    {
+      "title": "Section 2",
+      "links": [
+        { "title": "Link 4", "url": "#" },
+        { "title": "Link 5", "url": "#" },
+        { "title": "Link 6", "url": "#" }
+      ]
+    },
+    {
+      "title": "Section 3",
+      "links": [
+        { "title": "Link 7", "url": "#" },
+        { "title": "Link 8", "url": "#" }
+      ]
+    }
+  ],
+  "socialMedia": [
+    { "name": "Facebook", "url": "https://www.facebook.com" },
+    { "name": "Instagram", "url": "https://www.instagram.com" },
+    { "name": "Twitter", "url": "https://twitter.com" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com" }
+  ],
+  "copyright": "© 2024 Your Company. All rights reserved."
+}
